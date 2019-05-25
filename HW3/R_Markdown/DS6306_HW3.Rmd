@@ -12,7 +12,7 @@ output: html_document
 # Question 1 - Git Hub Cloning (commented out)
 #  $ cd f:/
 #  $ cd SMU
-#  $ cd DS3606
+#  $ cd DS6306
 #  $ cd HW3
 #  $ mkdir git_repo
 #  $ cd git_repo
@@ -202,3 +202,7 @@ setwd("F:/SMU/DS6306/HW3/538_Raw_Data") # set wd
 write.csv(df, file = "FiveThirtyEight_CollegeRecentGrads.csv", row.names = FALSE) # write the fivethirtyeight data to a CSV without row labels
 
 ```
+
+## Question 6
+
+#### Link to github repo for review: https://github.com/jays567/DS6306_HW3
